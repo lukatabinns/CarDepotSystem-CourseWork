@@ -1,4 +1,3 @@
-//Lukata Binns 11745045
 public class Car extends Vehicle
 {
     /**
