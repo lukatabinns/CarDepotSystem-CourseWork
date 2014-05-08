@@ -1,4 +1,3 @@
-//Lukata Binns 11745045
 public class Date
 {
     /** Fields of a Date - just the day, month and year*/
